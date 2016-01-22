@@ -47,7 +47,7 @@ Package.onTest(function(api) {
     'practicalmeteor:munit@2.1.5',
     'space:testing@3.0.1',
     'space:testing-messaging@3.0.0',
-    'space:testing-flux@1.0.0'
+    'space:testing-flux@0.7.0'
   ]);
 
   api.addFiles([
