@@ -26,6 +26,9 @@
 ## Installation
 `meteor add space:flux`
 
+### Instalation of Flux BDD testing API-s
+`meteor add space:testing-flux`
+
 ## Examples
 For a quick start take a look at the [TodoMVC example](https://github.com/meteor-space/TodoMVC)
 
