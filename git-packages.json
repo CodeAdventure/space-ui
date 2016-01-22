@@ -17,6 +17,6 @@
   },
   "space:testing-flux": {
     "git":"https://github.com/meteor-space/testing-flux.git",
-    "version": "171266386f8471487cabfe5b9ae78c344a765c70"
+    "version": "9b91be5efbb2adcb86b461f44a16d8f7ca44111d"
   }
 }
